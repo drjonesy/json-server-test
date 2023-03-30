@@ -1,11 +1,28 @@
 {
-  "posts": [
+  "books": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Prelude To Foundation"
+    },
+    {
+      "id": 2,
+      "title": "Forward To Foundation"
+    },
+    {
+      "id": 3,
+      "title": "Foundation"
+    },
+    {
+      "id": 4,
+      "title": "Animal Farm"
+    },
+    {
+      "id": 5,
+      "title": "1984"
+    },
+    {
+      "id": 6,
+      "title": "A Brave New World"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
